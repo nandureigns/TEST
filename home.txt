@@ -1,0 +1,5 @@
+cross site scripting
+reversing engineering
+http header injection
+sql injection
+bruteforce method
