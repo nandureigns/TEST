@@ -1,0 +1,6 @@
+owsap and zap
+wireshark
+github
+docker desktop
+crytograpy
+threat modeling
